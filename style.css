@@ -1,0 +1,40 @@
+/* DEFAULT STYLES TO MAKE LESSON PRETTY-ISH */
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #fed7e2;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 32px;
+}
+
+aside {
+  background-color: #f687b3;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 32px;
+}
+
+main {
+  background-color: #d53f8c;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 32px;
+}
+
+footer {
+  background-color: #97266d;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 32px;
+}
